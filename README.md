@@ -1,1 +1,1 @@
-"# AndroidCoordinatorLayoutCollapsingToolbar" 
+AndroidCoordinatorLayoutCollapsingToolbar
