@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidCoordinatorLayoutCollapsingToolbar</string>
+
+    <string name="long_text">1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14</string>
 </resources>

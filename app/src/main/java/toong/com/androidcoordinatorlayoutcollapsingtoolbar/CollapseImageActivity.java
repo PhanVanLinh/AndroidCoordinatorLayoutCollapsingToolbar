@@ -3,11 +3,11 @@ package toong.com.androidcoordinatorlayoutcollapsingtoolbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class CollapseImageActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_collapsing_toolbar);
+        setContentView(R.layout.activity_collapse_image);
     }
 }
